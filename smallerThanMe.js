@@ -1,4 +1,4 @@
-
+"use strict";
 function smaller(nums) {
     let countSmall = [];
     for (let i = 0; i < nums.length; i++) {
